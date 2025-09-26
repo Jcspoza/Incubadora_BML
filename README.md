@@ -6,8 +6,6 @@ ESTADOS : IDEA - > EN PREPARACION -> VERSION 1 -> CICLO DE PRUEBAS -> EN LANZAME
 
 ## Idea #1 : Juegos de mesa - Talleres o Recurso
 
-
-
 | Estado              | IDEA                                                                                                                                               | 18-9-2025 |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | **Objetivo**        | Disponer de Juegos de mesa modernos e instructores que enseñen a jugar. Se montaran talleres de juegos específicos complejos. Dotar de un lugar ?? |           |
@@ -21,7 +19,9 @@ ESTADOS : IDEA - > EN PREPARACION -> VERSION 1 -> CICLO DE PRUEBAS -> EN LANZAME
 | Estado              | IDEA                                                                                                                                        | 18-9-2025 |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | **Objetivo**        | Crear un espacio de debate teatral, antes de ver una obra de teatro o despues de haberla visto. Posibilidad de ver obras que estén en video |           |
-| **Voluntarios**     | Horacio / Carlos / Jose Carlos                                                                                                              |           |
+| **Voluntarios**     | Horacio / Carlos Taberneiro / Carlos Mochales / Jose Carlos                                                                                 |           |
 | **Pros**            | Promueve la cultura teatral                                                                                                                 |           |
 | **Contras**         | Complejo coordinar la asistencia a obras por la dificultad de encontrar entradas                                                            |           |
-| **Bitacora simple** |                                                                                                                                             |           |
+| Ideas iniciales     | [Teatroforum ideas v0](./teatroforum_ideasv0.pdf)                                                                                           |           |
+| **Bitacora simple** | * Creado grupo Wa con nucleo de participes                                                                                                  |           |
+|                     | Acordada 1ra reunión dia 2 oct 12:00 CMM BML después reunión voluntarios                                                                    |           |
