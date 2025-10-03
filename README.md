@@ -29,12 +29,12 @@ ESTADOS : IDEA - > EN PREPARACION -> VERSION 1 -> CICLO DE PRUEBAS -> EN LANZAME
 
 ### Listado de obras de interes y fechas
 
-| Obra autor link                                                                                     | Teatro                                   | Fechas                              | Razón interes             | Votos |
-| --------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------- | ------------------------- | ----- |
-| Los Bufos Madrileños                                                                                | Comedia                                  | 18-12-2025 a 25-1-2026              | Historia del teatro s.XIX |       |
-| [Luces de bohemia- Ramón del Valle-Inclán](https://www.teatroespanol.es/luces-de-bohemia)           | [Español](https://www.teatroespanol.es/) | 23-1-2026 a 7-3-2026                | Hito del s.XX             |       |
-| [Malquerida - Jacinto Benavente](https://www.teatroespanol.es/malquerida)                           | [Español](https://www.teatroespanol.es/) | 13 Marzo 26 Abril 2026              | Autor y obra              |       |
-| [Tras el ensayo- Ingmar Bergman](https://www.teatroespanol.es/tras-el-ensayo)                       | [Español](https://www.teatroespanol.es/) |                                     | Autor                     |       |
-| [TORMENTA- August Strindberg](https://www.teatroespanol.es/tormenta)                                | [Español](https://www.teatroespanol.es/) | 16 de abril al 3 de Mayo.           | Autor                     |       |
-| [La escopeta nacional-L.G. Berlanga y R. Azcona](https://www.teatroespanol.es/la-escopeta-nacional) | [Español](https://www.teatroespanol.es/) | 16 de junio al 26 de julio de 2026. | Adaptación película top   |       |
-|                                                                                                     |                                          |                                     |                           |       |
+| Obra autor link                                                                                     | Teatro                                         | Fechas                              | Fecha de TF tentativa      | Votos |
+| --------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------- | -------------------------- | ----- |
+| [Los Bufos Madrileños](https://teatroclasico.inaem.gob.es/2025/06/10/los-bufos-madrilenos-3/)       | [Comedia](https://teatroclasico.inaem.gob.es/) | 18-12-2025 a 25-1-2026              | **Enero** 2026 3ra semana  |       |
+| [Luces de bohemia- Ramón del Valle-Inclán](https://www.teatroespanol.es/luces-de-bohemia)           | [Español](https://www.teatroespanol.es/)       | 23-1-2026 a 7-3-2026                | **Marzo** 2026- 2da semana |       |
+| [Malquerida - Jacinto Benavente](https://www.teatroespanol.es/malquerida)                           | [Español](https://www.teatroespanol.es/)       | 13 Marzo 26 Abril 2026              | **Abril** 2026 -3ra semana |       |
+| [Tras el ensayo- Ingmar Bergman](https://www.teatroespanol.es/tras-el-ensayo)                       | [Español](https://www.teatroespanol.es/)       | 4 Abril17 Mayo 2026                 | **Mayo** 2026 -3ra semana  |       |
+| [TORMENTA- August Strindberg](https://www.teatroespanol.es/tormenta)                                | [Español](https://www.teatroespanol.es/)       | 16 de abril al 3 de Mayo.           | **Mayo** 2026 -2da semana  |       |
+| [La escopeta nacional-L.G. Berlanga y R. Azcona](https://www.teatroespanol.es/la-escopeta-nacional) | [Español](https://www.teatroespanol.es/)       | 16 de junio al 26 de julio de 2026. | **Julio** 2026 -2da semana |       |
+|                                                                                                     |                                                |                                     |                            |       |
